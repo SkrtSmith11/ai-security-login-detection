@@ -36,5 +36,5 @@ This project demonstrates practical SOC skills such as:
 
 ## Author
 William Smith
-[GitHub Repo](https://github.com/SkrtSmith11/ai-security-login-detection.git)\
+[GitHub Repo](https://github.com/SkrtSmith11/ai-security-login-detection.git)
 
